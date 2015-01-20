@@ -22,6 +22,8 @@ description: > # this means to ignore newlines until "baseurl:"
   countries as three blonde women ALONE!
 url: "http://www.recherchetravel.com" # the base hostname & protocol for your site
 tagline: Uniquely Wild Travel for the Exceptional Traveler
+image_resize_size: 50 
+image_resize_percent_limit: 80
 author :
   name : Kristan Armstrong
   email : questions@recherchetravel.com
