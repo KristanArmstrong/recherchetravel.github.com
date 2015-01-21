@@ -22,8 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
   countries as three blonde women ALONE!
 url: "http://www.recherchetravel.com" # the base hostname & protocol for your site
 tagline: Uniquely Wild Travel for the Exceptional Traveler
-image_resize_size: 50 
-image_resize_percent_limit: 80
+
 author :
   name : Kristan Armstrong
   email : questions@recherchetravel.com
@@ -40,7 +39,7 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://username.github.io
-baseurl: /RechurcheTravel
+baseurl: ''
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
