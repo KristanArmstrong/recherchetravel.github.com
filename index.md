@@ -22,6 +22,7 @@ any other subject remotely related to it.  My inquisitive nature and the urge fo
 
 Now I know that was a little long winded and you're probably wondering when I am going to introduce my family.  Well first off, here we all are:
 
+
 <!-- DO NOT TOUCH -->
 <div><center>
 {% img class /pictures/best/DSC08351.JPG 'Cancun, Mexico' '[Picture]' %}
@@ -47,9 +48,9 @@ rest of world!
 
 <hr>
 <h1> Navigating </h1>
-The site is broken up into regions around the world that we have traveled: <a href="/north_america.html">North America</a>, <a href="/central_america.html">Central America</a>, 
-<a href="/south_america.html">South America</a>, <a href="/asia.html">Asia</a>, <a href="/middle_east.html"> Middle East</a>, <a href="/africa.html" >Africa</a> and the 
-<a href="/south_pacific.html">South Pacific</a>.  Once you find the region you're most interested in just click on the link or use the navigation bar above and enjoy!
+The site is broken up into regions around the world that we have traveled: [North America](/north_america.html), [Central America](/central_america.html), 
+[South America](/south_america.html), [Asia](/asia.html), [Middle East](/middle_east.html), [Africa](/africa.html) and the 
+[South Pacific](/south_pacific.html).  Once you find the region you're most interested in just click on the link or use the navigation bar above and enjoy!
 
 As we continue traveling around the world more pages will be added... Please feel free to send us suggestions on our next point of interest.
 
