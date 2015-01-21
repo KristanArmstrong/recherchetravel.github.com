@@ -14,5 +14,10 @@ http://username.github.io/sitemap.txt
 http://username.github.io/south_america.html
 http://username.github.io/south_pacific.html
 http://username.github.io/tags.html
+http://username.github.io/pictures/about/index.html
+http://username.github.io/pictures/best/index.html
+http://username.github.io/pictures/middle_east/index.html
+http://username.github.io/pictures/south_pacific/index.html
+http://username.github.io/pictures/index.html
 
 http://username.github.io/lessons/2011/12/29/jekyll-introduction
