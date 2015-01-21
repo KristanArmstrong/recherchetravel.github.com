@@ -18,13 +18,13 @@ year before applying to CU - Boulder.  This wasn't because I had hard time learn
 on what I could push my body to do than what I could push my brain to do.  I never had physics or chemistry in high school, so of course I never dreamed that I would get a degree in Physics or
 any other subject remotely related to it.  My inquisitive nature and the urge for discovery lead me down that path, as well as, many other avenues which I will share with you soon...
 
-<!--![Image description](/pictures/DSC08351.JPG)  -->  
+<!--{% img class /pictures/DSC08351.JPG 'Cancun, Mexico' 'alt text' %}  -->  
 
 Now I know that was a little long winded and you're probably wondering when I am going to introduce my family.  Well first off, here we all are:
 
 <!-- DO NOT TOUCH -->
 <div><center>
-{% img class /pictures/DSC08351.JPG 'Cancun, Mexico' 'alt text' %}
+![Cancun, Mexico](/pictures/DSC08351.JPG)
 </center></div>
 <center> Brooke (left), Joyce (center),  Kristan (right)</center>
 <center> Cancun, Mexico </center>
