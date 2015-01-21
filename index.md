@@ -34,7 +34,7 @@ as myself, at least in terms of life goals and careers.  My mother had a handful
 But seriously, could my Mom even be surprised?  Look at who raised us!  She is the one who gave us the appetite for adventure and taught us about the importance of independence from the time we
 were little girls.  Of course, my sister may have taken these life lessons a little too over the top, haha, like every teenager does.  She was using the idea of independence to paint the most
 creative portrait of her life.  That's what artists do they express themselves through seeing the world from a different perspective.  After graduating with a degree in Graphic Design she ended
-up opening her own Native American jewelery and crafts business in Morrison, CO.  This business was just the beginning, after trying the jewellery business she decided that it wasn't quite for
+up opening her own Native American jewelery and crafts business in Morrison, CO.  This business was just the beginning, after trying the jewelery business she decided that it wasn't quite for
 her and she decided to go into the marijuana business.  
 
 Now for the main culprit of all our restlessness, our loving and very supportive mother, Joyce.  She is definitely a product of the 70s although she kept all the good parts and threw out the rest.
@@ -47,8 +47,7 @@ rest of world!
 
 <hr>
 <h1> Navigating </h1>
-The site is broken up into regions around the world that we have traveled: <a href="/north_america.html">North America</a>, <a href="/central_america.html">Central America</a>, <a href="/south_america.html">South America</a>, <a href="/asia.html">Asia</a>, <a href="/middle_east.html"> Middle East</a>, <a href="/africa.html" >Africa</a> and the <a href="/south_pacific.html">South Pacific</a>.  
-Once you find the region you're most interested in just click on the link or use the navigation bar above and enjoy!
+The site is broken up into regions around the world that we have traveled: <a href="/north_america.html">North America</a>, <a href="/central_america.html">Central America</a>, <a href="/south_america.html">South America</a>, <a href="/asia.html">Asia</a>, <a href="/middle_east.html"> Middle East</a>, <a href="/africa.html" >Africa</a> and the <a href="/south_pacific.html">South Pacific</a>.  Once you find the region you're most interested in just click on the link or use the navigation bar above and enjoy!
 
 As we continue traveling around the world more pages will be added... Please feel free to send us suggestions on our next point of interest.
 
