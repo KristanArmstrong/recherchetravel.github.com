@@ -18,18 +18,20 @@ year before applying to CU - Boulder.  This wasn't because I had hard time learn
 on what I could push my body to do than what I could push my brain to do.  I never had physics or chemistry in high school, so of course I never dreamed that I would get a degree in Physics or
 any other subject remotely related to it.  My inquisitive nature and the urge for discovery lead me down that path, as well as, many other avenues which I will share with you soon...
 
-<!--![Cancun, Mexico](/pictures/DSC08351.JPG)-->  
+<!--![Cancun, Mexico](/pictures/DSC08351.JPG)  {% img class {{site.JB.BASE_PATH}}/pictures/best/DSC08351.JPG 'Cancun, Mexico' '[Picture]' %}-->  
 
 Now I know that was a little long winded and you're probably wondering when I am going to introduce my family.  Well first off, here we all are:
 
-
 <!-- DO NOT TOUCH -->
 <div><center>
-{% img class /pictures/best/DSC08351.JPG 'Cancun, Mexico' '[Picture]' %}
+<img sizes="(min-width: 40em) 80vw, 100vw"
+srcset="{{BASE_PATH}}/pictures/best/DSC08351_small.JPG 375w, {{BASE_PATH}}/pictures/best/DSC08351_medium.JPG 580w, {{BASE_PATH}}/pictures/best/DSC08351.JPG 768w" alt="Cancun, Mexico">
 </center></div>
 <center> Brooke (left), Joyce (center),  Kristan (right)</center>
 <center> Cancun, Mexico </center>
+
 <!-- ADD IN MORE TEXT BELOW THIS LINE -->
+
 Let's start from the left and let me introduce my free-spirited sister, Brooke, she is a vivacious entrepreneur who is always looking for the next great business idea.  She is as unpredictable
 as myself, at least in terms of life goals and careers.  My mother had a handful with this little terror when she was a child, while I was hyperactive, my sister was on a mission for independence.
 But seriously, could my Mom even be surprised?  Look at who raised us!  She is the one who gave us the appetite for adventure and taught us about the importance of independence from the time we
@@ -48,9 +50,9 @@ rest of world!
 
 <hr>
 <h1> Navigating </h1>
-The site is broken up into regions around the world that we have traveled: [North America](/north_america.html), [Central America](/central_america.html), 
-[South America](/south_america.html), [Asia](/asia.html), [Middle East](/middle_east.html), [Africa](/africa.html) and the 
-[South Pacific](/south_pacific.html).  Once you find the region you're most interested in just click on the link or use the navigation bar above and enjoy!
+The site is broken up into regions around the world that we have traveled: [North America]({{BASE_PATH}}/north_america.html), [Central America]({{BASE_PATH}}/central_america.html),
+[South America]({{BASE_PATH}}/south_america.html), [Asia]({{BASE_PATH}}/asia.html), [Middle East]({{BASE_PATH}}/middle_east.html), [Africa]({{BASE_PATH}}/africa.html) and the
+[South Pacific]({{BASE_PATH}}/south_pacific.html). Once you find the region you're most interested in just click on the link or use the navigation bar above and enjoy!
 
 As we continue traveling around the world more pages will be added... Please feel free to send us suggestions on our next point of interest.
 

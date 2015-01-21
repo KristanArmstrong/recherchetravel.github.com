@@ -5,7 +5,8 @@ tagline: <p><p> Oman, United Arab Emirates, Jordan, Israel, Egypt, Cyprus and Tu
 ---
 {% include JB/setup %}
 <div><center>
-{% img class /pictures/middle_east/middle_east.JPG 'Middle East Map' 'alt text' %}
+  <img sizes="(min-width: 40em) 80vw, 100vw"
+  srcset="{{BASE_PATH}}/pictures/middle_east/middle_east_small.jpg 375w, {{BASE_PATH}}/pictures/middle_east/middle_east_medium.jpg 580w, {{BASE_PATH}}/pictures/middle_east/middle_east.jpg 768w" alt="Map of Middle East">
 </center></div>
 <center> <h3>Middle East Map</h3> </center>
 <center>(Colored Countries - where we have been)</center>
