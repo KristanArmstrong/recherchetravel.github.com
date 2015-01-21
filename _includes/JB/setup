@@ -1,11 +1,12 @@
 {% capture jbcache %}
   <!--
   - Dynamically set liquid variables for working with URLs/paths
+  - Change this file to update
   -->
   {% if site.JB.setup.provider == "custom" %}
     {% include custom/setup %}
   {% else %}
-    {% if site.baseurl and site.JB.BASE_PATH != '' %}
+    {% if site.basesurl and site.JB.BASE_PATH != '' %}
       {% assign BASE_PATH = site.JB.BASE_PATH %}
       {% assign HOME_PATH = site.JB.BASE_PATH %}
     {% else %}
