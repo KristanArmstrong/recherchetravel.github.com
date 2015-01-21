@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Recherch&eacute; Travel</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2015-01-20T19:37:34-08:00</updated>
- <id>http://username.github.io</id>
+ <link href="http://kristanarmstrong.github.io/recherchetravel.github.com/" rel="self"/>
+ <link href="http://kristanarmstrong.github.io/recherchetravel.github.com"/>
+ <updated>2015-01-20T20:11:56-08:00</updated>
+ <id>http://kristanarmstrong.github.io/recherchetravel.github.com</id>
  <author>
    <name>Kristan Armstrong</name>
    <email>questions@recherchetravel.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://username.github.io/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://kristanarmstrong.github.io/recherchetravel.github.com/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00-08:00</updated>
-   <id>http://username.github.io/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://kristanarmstrong.github.io/recherchetravel.github.com/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we&amp;#39;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
