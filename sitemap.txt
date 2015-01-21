@@ -14,10 +14,10 @@ http://kristanarmstrong.github.io/recherchetravel.github.com/sitemap.txt
 http://kristanarmstrong.github.io/recherchetravel.github.com/south_america.html
 http://kristanarmstrong.github.io/recherchetravel.github.com/south_pacific.html
 http://kristanarmstrong.github.io/recherchetravel.github.com/tags.html
-http://kristanarmstrong.github.io/recherchetravel.github.com/pictures/about/index.html
-http://kristanarmstrong.github.io/recherchetravel.github.com/pictures/best/index.html
-http://kristanarmstrong.github.io/recherchetravel.github.com/pictures/middle_east/index.html
-http://kristanarmstrong.github.io/recherchetravel.github.com/pictures/south_pacific/index.html
-http://kristanarmstrong.github.io/recherchetravel.github.com/pictures/index.html
+http://kristanarmstrong.github.io/recherchetravel.github.com/photos/about/index.html
+http://kristanarmstrong.github.io/recherchetravel.github.com/photos/best/index.html
+http://kristanarmstrong.github.io/recherchetravel.github.com/photos/middle_east/index.html
+http://kristanarmstrong.github.io/recherchetravel.github.com/photos/south_pacific/index.html
+http://kristanarmstrong.github.io/recherchetravel.github.com/photos/index.html
 
 http://kristanarmstrong.github.io/recherchetravel.github.com/lessons/2011/12/29/jekyll-introduction
