@@ -47,7 +47,7 @@ rest of world!
 
 <hr>
 <h1> Navigating </h1>
-The site is broken up into regions around the world that we have traveled: <a href="/north_america.html">North America</a>, <a>Central America</a>, <a>South America</a>, <a>Asia</a>, <a> Middle East</a>, <a>Africa</a> and the <a>South Pacific</a>.  
+The site is broken up into regions around the world that we have traveled: <a href="/north_america.html">North America</a>, <a href="/central_america">Central America</a>, <a href="/south_america.html">South America</a>, <a href="/asia.html">Asia</a>, <a href="/middle_east.html"> Middle East</a>, <a href="/africa.html" >Africa</a> and the <a href="/south_pacific.html">South Pacific</a>.  
 Once you find the region you're most interested in just click on the link or use the navigation bar above and enjoy!
 
 As we continue traveling around the world more pages will be added... Please feel free to send us suggestions on our next point of interest.
